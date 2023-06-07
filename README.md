@@ -22,9 +22,10 @@
 
 
 ## 👨‍💻 Contributors
-###  Gauri Patil 
-###  Ashish Singh
-###  Vijit Singh
+###  Uday Gupta
+###  Sneha Agarwal
+###  Tanisha Agarwal
+###  Divyansh Sharma
 
 <br/>
 <br/>
